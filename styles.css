@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+  }
+
+table{
+    width: 80%;
+    background-color: rgb(74, 238, 74);
+    color: white;
+}
+td {
+    background-color: rgb(10, 116, 10);
+}
