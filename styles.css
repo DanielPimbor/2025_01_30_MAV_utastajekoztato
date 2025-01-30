@@ -4,10 +4,12 @@ table, th, td {
   }
 
 table{
-    width: 80%;
-    background-color: rgb(74, 238, 74);
-    color: white;
+    width: 80%; /* weboldal szélessége */
+    background-color: rgb(10, 116, 10); /* háttérszín */
+    color: white; /* betűszín */
+    font-family: 'Courier New'; /* betűtípus */
+    font-size: 25px;
 }
-td {
-    background-color: rgb(10, 116, 10);
+th {
+    background-color: rgb(74, 238, 74);
 }
