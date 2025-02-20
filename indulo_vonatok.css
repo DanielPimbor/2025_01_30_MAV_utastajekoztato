@@ -16,10 +16,22 @@ th {
 #keses{
     background-color: red;
 }
-.sotet{
-    background-color: rgb(110, 139, 192);
-}
+
 .erkezesindulas{
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
+}
+tbody tr:nth-child(odd){
+    background-color: rgb(110, 139, 192);
+}
+tbody tr:nth-child(even){
+    background-color: rgb(30, 63, 133);
+}
+#ido{
+    background-color: white;
+    color: rgb(30, 63, 133);
+    border: 0px;
+}
+img{
+    width: 60px;
 }
