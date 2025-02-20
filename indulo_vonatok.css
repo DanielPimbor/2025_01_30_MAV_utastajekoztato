@@ -5,19 +5,19 @@ table, th, td {
 
 table{
     width: 80%; /* weboldal szélessége */
-    background-color: rgb(10, 116, 10); /* háttérszín */
+    background-color: rgb(10, 47, 116); /* háttérszín */
     color: white; /* betűszín */
     font-family: 'Courier New'; /* betűtípus */
     font-size: 25px;
 }
 th {
-    background-color: rgb(119, 196, 119);
+    background-color: rgb(30, 63, 133);
 }
 #keses{
     background-color: red;
 }
-.paratlan_sor{
-    background-color: rgb(116, 184, 116);
+.sotet{
+    background-color: rgb(83, 114, 172);
 }
 .erkezesindulas{
     font-size: 50px;
