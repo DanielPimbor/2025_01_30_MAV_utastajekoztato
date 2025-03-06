@@ -26,3 +26,14 @@ th {
 img{
     width: 60px;
 }
+#ido{
+    background-color: white;
+    color: rgb(40, 78, 23);
+    border: 0px;}
+    
+.IC{
+    justify-content: center;
+    align-items: center;
+    width: 10px;
+
+}
