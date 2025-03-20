@@ -44,19 +44,19 @@ A projekt elérhető ezen a linken: [🔗 MÁV utastájékoztató](https://danie
     table, th, td {
     border: 1px solid;
     border-collapse: collapse;
-  }
+    }
 
-table{
-    width: 80%; /* weboldal szélessége */
-    background-color: rgb(10, 47, 116); /* háttérszín */
-    color: white; /* betűszín */
-    font-family: 'Courier New'; /* betűtípus */
-    font-size: 25px;
-}
-th {
-    background-color: rgb(30, 63, 133);
-}
-#keses{
-    background-color: red;
-}
-    ```
+    table{
+        width: 80%; /* weboldal szélessége */
+        background-color: rgb(10, 47, 116); /* háttérszín */
+        color: white; /* betűszín */
+        font-family: 'Courier New'; /* betűtípus */
+        font-size: 25px;
+    }
+    th {
+        background-color: rgb(30, 63, 133);
+    }
+    #keses{
+        background-color: red;
+    }
+        ```
