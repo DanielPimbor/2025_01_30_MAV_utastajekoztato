@@ -13,31 +13,31 @@ A projekt elérhető ezen a linken: [🔗 MÁV utastájékoztató](https://danie
 ## 🏢 Alap HTML szerkezet
     ```html
     <!DOCTYPE html>
-<html lang="hu">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MÁV utastájékoztató</title>
-    <link rel="stylesheet" href="indulo_vonatok.css">
-</head>
-<body>
-    <table id="indulo">
-        <thead>
-            <tr>
-                <th id="ido">08:43:10</th>
-                <th>Abfahrt</th>
-                <th colspan="2">Induló vontatok</th>
-                <th>Departures</th>
-                <th><img src="mav.png" alt="MavKep"></th>
-            </tr>
-            <tr>
-                <th>Tervezett Indulás</th>
-                <th>Indulás</th>
-                <th>Vonat</th>
-                <th>Honnan</th>
-                <th>Hova</th>
-                <th>Vágány</th>
-            </tr>
+    <html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>MÁV utastájékoztató</title>
+        <link rel="stylesheet" href="indulo_vonatok.css">
+    </head>
+    <body>
+        <table id="indulo">
+            <thead>
+                <tr>
+                    <th id="ido">08:43:10</th>
+                    <th>Abfahrt</th>
+                    <th colspan="2">Induló vontatok</th>
+                    <th>Departures</th>
+                    <th><img src="mav.png" alt="MavKep"></th>
+                </tr>
+                <tr>
+                    <th>Tervezett Indulás</th>
+                    <th>Indulás</th>
+                    <th>Vonat</th>
+                    <th>Honnan</th>
+                    <th>Hova</th>
+                    <th>Vágány</th>
+                </tr>
     ```
 ## 🎵 CSS Stílusok
     ```css
